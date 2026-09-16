@@ -8,8 +8,7 @@ A positive, unified, and factual way to look at humanity's frontier technologies
 ## Team
 
 - Veer Saraf
-- [Name]
-- [Name]
+- Lipi Makwana
 
 ## Datasets
 
